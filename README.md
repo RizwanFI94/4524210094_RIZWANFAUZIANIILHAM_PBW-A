@@ -1,6 +1,6 @@
-# Praktikum PBW - Pertemuan 1
+# Praktikum PBW - Pertemuan 1-14
 
-## Data Mahasiswa
+## Biodata Mahasiswa
 
 | Keterangan | Data |
 |---|---|
@@ -12,7 +12,7 @@
 ## Deskripsi
 
 Repository ini berisi source code praktikum
-Pemrograman Berbasis Web (PBW) Pertemuan 1.
+Pemrograman Berbasis Web (PBW) Pertemuan 1 sampai 14.
 
 ## Teknologi
 
